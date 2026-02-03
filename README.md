@@ -61,3 +61,12 @@ flutter run
 
 ## 👩‍💻 Author
 Bhavana Kulkarni
+
+## 📸 Screenshots
+
+### Collapsed View
+![Collapsed Accordion](screenshots/collapsed.png)
+
+### Expanded View
+![Expanded Accordion](screenshots/expanded.png)
+
